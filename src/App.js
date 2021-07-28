@@ -66,7 +66,7 @@ function App() {
     const design = {color:'red', textAlign:'center', fontSize:'1.5rem'}
     const initState = [
         {id:1, title:"ค่าเช่าบ้าน", amount: -2000},
-        {id:2, title:"เงินเดือน", amount: 12000},
+        {id:2, title:"เงินเดือน2", amount: 12000},
         {id:3, title:"ค่าเดินทาง", amount: -500},
         {id:4, title:"ขายของ", amount: 2000}
     ]
